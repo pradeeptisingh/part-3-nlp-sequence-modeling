@@ -1,0 +1,17 @@
+SAMPLE PREDICTIONS — BiLSTM Model (deduplicated dataset)
+=================================================================
+[CORRECT]  True: neutral     Pred: neutral     |  please tell how update account details ticket number
+[CORRECT]  True: negative    Pred: negative    |  product quality bad regret purchasing please respond soon po
+[CORRECT]  True: neutral     Pred: neutral     |  like know available plans ticket number
+[CORRECT]  True: negative    Pred: negative    |  app crashes whenever try use video call ticket number please
+[CORRECT]  True: negative    Pred: negative    |  refund still pending experience frustrating ticket number pl
+[CORRECT]  True: negative    Pred: negative    |  very unhappy because subscription worked since yesterday ple
+[CORRECT]  True: negative    Pred: negative    |  very unhappy because account worked since last week please r
+[CORRECT]  True: neutral     Pred: neutral     |  someone explain difference plans ticket number please respon
+[CORRECT]  True: neutral     Pred: neutral     |  please provide steps activate payment please respond soon po
+[CORRECT]  True: neutral     Pred: neutral     |  confirm whether ticket assigned ticket number
+[CORRECT]  True: negative    Pred: negative    |  raised multiple tickets nobody fixed problem ticket number
+[CORRECT]  True: negative    Pred: negative    |  refund still pending experience frustrating
+[CORRECT]  True: positive    Pred: positive    |  great service clear communication support team ticket number
+[CORRECT]  True: positive    Pred: positive    |  response team helpful professional ticket number
+[CORRECT]  True: positive    Pred: positive    |  app experience smooth reliable ticket number

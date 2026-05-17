@@ -1,0 +1,5 @@
+Model,Accuracy,Weighted F1
+LR + TF-IDF,1.0,1.0
+NB + BoW,1.0,1.0
+Dense NN + TF-IDF,1.0,1.0
+BiLSTM,1.0,1.0
