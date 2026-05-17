@@ -6,6 +6,10 @@ This project builds an NLP pipeline for customer support sentiment classificatio
 
 The notebook compares classical text vectorization methods with a sequence-based Bidirectional LSTM model.
 
+## Data Source
+
+Dataset source: https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 ## Repository Structure
 
 ```text
